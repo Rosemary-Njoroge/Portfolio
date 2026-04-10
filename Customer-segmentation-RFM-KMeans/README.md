@@ -180,7 +180,7 @@ Data Cleaning
 
 ## 🚀 How to Run the Project
 
-git clone <repo-link>
-cd customer-segmentation
+clone the repository
+cd Customer-segmentation-RFM-KMeans
 pip install -r requirements.txt
 jupyter notebook
