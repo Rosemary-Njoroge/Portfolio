@@ -1,0 +1,8 @@
+ipykernel
+matplotlib
+seaborn
+numpy
+pandas
+nbformat
+openpyxl
+scikit-learn
