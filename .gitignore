@@ -77,6 +77,41 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+*.sqlite3
+
+# Models / artifacts
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.model
+*.pt
+*.pth
+
+models/
+model_outputs/
+checkpoints/
+
+# Sensitive files
+credentials.json
+secrets.json
+config.local.*
+*.key
+*.pem
 
 # IPython
 profile_default/
