@@ -20,7 +20,7 @@ This project solves that by grouping customers based on their transaction behavi
 
 ## 📦 Dataset
 
-* Source: Online Retail dataset
+* Source: [Online Retail dataset](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset)
 * Contains transactional data including:
 
   * Invoice number
